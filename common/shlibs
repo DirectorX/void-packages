@@ -1837,6 +1837,12 @@ libawt_xawt.so openjdk10-bootstrap-10.0.2p13_1
 libjava.so openjdk10-bootstrap-10.0.2p13_1
 libjli.so openjdk10-bootstrap-10.0.2p13_1
 libjvm.so openjdk10-bootstrap-10.0.2p13_1
+libjawt.so mandrel-21.1.0.0_1
+libawt.so mandrel-21.1.0.0_1
+libawt_xawt.so mandrel-21.1.0.0_1
+libjava.so mandrel-21.1.0.0_1
+libjli.so mandrel-21.1.0.0_1
+libjvm.so mandrel-21.1.0.0_1
 libucl.so.5 libucl-0.8.1_6
 libhandle.so.1 xfsprogs-3.2.1_1
 libnfnetlink.so.0 libnfnetlink-1.0.1_1
@@ -4019,3 +4025,4 @@ libXcompshad.so.3 nx-libs-3.5.99.24_1
 libNX_X11.so.6 nx-libs-3.5.99.24_1
 librnnoise.so.0 rnnoise-0.4.1_1
 liblhasa.so.0 lhasa-0.3.1_2
+libmt32emu.so.2 libmt32emu-2.5.1_1
